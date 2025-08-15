@@ -1,0 +1,25 @@
+{
+  "name": "FutbolLive · Fútbol en vivo",
+  "short_name": "FutbolLive",
+  "start_url": "./?utm_source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0ea5e9",
+  "lang": "es",
+  "description": "Sigue fútbol en vivo: horarios, marcadores y alertas.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
